@@ -1,4 +1,6 @@
 cells.txt
+clean_cells.txt
+load_neurons.py
 data/*
 .idea/*
 
